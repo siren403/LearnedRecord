@@ -7,6 +7,7 @@
     nano /etc/vsftpd.conf
 
 *주석 해제*
+
 anonymous_enable=NO
 local_enable=YES
 write_enable=YES
@@ -37,6 +38,7 @@ chroot_list_file=/etc/vsftpd.chroot_list
 
 
 *맨밑에 작성*
+
 allow_writeable_chroot=YES
 
 pasv_enable=YES 
@@ -47,6 +49,7 @@ pasv_address=[ec2 public IP]
 - allow_writeable_chroot=YES을 적으면 500 ... chroot() 에러 해결
 
 *ec2 콘솔에서 Inbound설정*
+
 - Security Group -> Inbound Edit
 Custom TCP Rule
 TCP

@@ -13,6 +13,8 @@ dynamicMaterial을 사용하여 값을 지정해주어야 실시간으로 적용
     dynamicMaterial은 실제로 지오메트리를 그리기 위해 drawCall에서 동적으로 
     생성해서 사용되는 Material.(Instantiated material)
 
+    drawCall 널체크 필요
+
 ### 소스
 
     //.cs

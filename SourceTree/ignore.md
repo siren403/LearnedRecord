@@ -1,0 +1,3 @@
+### 전역 ignore 설정
+    Preferences/Git/Global Ingnore
+    옵션/Git/전역...

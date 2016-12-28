@@ -10,6 +10,18 @@ pyenv-virtualenv-autenv
 [pyenv commands](https://leop0ld.github.io/python-development-setting/)
 [autoenv](https://leop0ld.github.io/python-development-setting/)
 
+[nginx-uwsgi-django](http://brownbears.tistory.com/16#recentComments)
+
+uwsgi
+
+(env)pip install uwsgi
+
+[uwsgi setting](http://arcanelux.tistory.com/entry/Ubuntu1404-Nginx-uWSGI-MySQL-Nodejs-npm-Bower-Django-%EC%84%A4%EC%A0%95)
+test
+
+uwsgi --http :8080 --home ~/.pyenv/versions/py343 --chdir ~/workspace/pygram -w pygram.wsgi
+# 설명
+uwsgi --http :8080 --home (PythonPath) --chdir (Django proejct folder) -w (Project name).wsgi
 
 ### windows for ubuntu, pycharm
 [wsl ssh설정](http://jnuxy.tistory.com/2)

@@ -63,3 +63,5 @@ Scene에 자식으로 포함된 Sprite는
 
 
 ### removeChild
+
+removeChild 함수의 내부에서 지우는 자식의 autoRelease 함수가 호출 됩니다.

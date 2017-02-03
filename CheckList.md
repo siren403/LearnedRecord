@@ -55,7 +55,7 @@
 [React.js 한글강좌](https://www.inflearn.com/course/react-%EA%B0%95%EC%A2%8C-velopert/?subscribe)
 
 [ES7에 제안된 바인드 연산자(Bind Operator)](https://github.com/tc39/proposal-bind-operator)
-    
+
     새로 ES7에 제안된 바인드 연산자(Bind Operator)입니다. bind/call/apply를 할 필요없이 ::한번에 연결할 수 있게 해주네요. ES6의 class가 constructor의 문법 설탕이듯이 bind/call/apply의 문법설탕이라고 하네요.
 
     ex)
@@ -90,8 +90,8 @@
 [인디 게임 다큐 : Branching Paths](http://www.ibatstudio.com/%EC%9D%BC%EB%B3%B8%EC%9D%98-%EC%9D%B8%EB%94%94-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8B%A4%ED%81%90%EB%A9%98%ED%84%B0%EB%A6%AC%EA%B0%80-%EC%B6%9C%EC%8B%9C%EB%90%98%EC%97%88%EB%84%A4/)
 
 [개발환경별 쓰이는 git ignore 데이터베이스](https://www.gitignore.io/)
-    
-    Visual studio에 git를 이용하여 협업을 할 때 
+
+    Visual studio에 git를 이용하여 협업을 할 때
     각자 컴퓨터에서 헤더파일 경로나 라이브러리 경로 등등
     각각 다르게 지정될 필요가 있는 경우가 많을 것 같습니다.
     그런 경우에 모든 변경된 파일을 커밋한다면 혼란이 올텐데
@@ -175,4 +175,22 @@
 
 
 
-----7월 19일
+----17.02.03 (opengl)
+
+http://dench.flatlib.jp/opengl/glsl_hlsl
+
+##보간
+http://blog.daum.net/aero2k/46
+
+##RenderTexture
+http://www.cocos2d-x.org/wiki/User_Tutorial-RenderTexture_Plus_Blur
+
+##GrayBlend
+http://chulin28ho.tistory.com/330
+
+##Google Post effects
+https://www.google.co.kr/search?q=cocos2d-x+post+effect&rlz=1C1NHXL_koKR723KR723&oq=cocos2d-x+post+effect&aqs=chrome..69i57.7612j0j1&sourceid=chrome&ie=UTF-8#q=cocos2d-x+post+processing+effects&tbs=qdr:y
+
+http://stackoverflow.com/questions/25803909/glsl-texture-size
+https://www.opengl.org/sdk/docs/man4/html/textureSize.xhtml
+https://open.gl/drawing

@@ -1,4 +1,5 @@
-[출처:tistory blog](gnosy1590.tistory.com)
+[출처:tistory blog](http://eastroot1590.tistory.com/entry/cocos2d-x%EC%9D%98-custom-shader%EB%A1%9C-Glow-%ED%9A%A8%EA%B3%BC%EB%82%B4%EA%B8%B0)
+(gnosy1590.tistory.com)
 
 ### 원하는 결과물
 

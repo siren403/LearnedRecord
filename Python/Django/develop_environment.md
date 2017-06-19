@@ -8,7 +8,6 @@ pyenv-virtualenv-autenv
 
 1번 링크로 진행 중 pyenv명령어 입력시 '찾을 수 없는 명령어..'머 이런식으로 나온다면 2번링크 중 경로 설정 부분 참고하여 진행
 
-<<<<<<< HEAD
 [nginx-uwsgi-django](http://brownbears.tistory.com/16#recentComments)
 
 uwsgi
@@ -21,9 +20,11 @@ test
 uwsgi --http :8080 --home ~/.pyenv/versions/py343 --chdir ~/workspace/pygram -w pygram.wsgi
 # 설명
 uwsgi --http :8080 --home (PythonPath) --chdir (Django proejct folder) -w (Project name).wsgi
-=======
-[pyenv commands](https://leop0ld.github.io/python-development-setting/)[autoenv](https://leop0ld.github.io/python-development-setting/)
->>>>>>> 05dfcbe3562e4ed3a6fe327d8a7d10c760a07158
+
+
+[pyenv commands](https://leop0ld.github.io/python-development-setting/)
+
+[autoenv](https://leop0ld.github.io/python-development-setting/)
 
 ### windows for ubuntu, pycharm
 
